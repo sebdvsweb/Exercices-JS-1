@@ -46,3 +46,11 @@ Tester avec votre date de naissance et votre pointure. **Attention : n'utiliser
 ## Exercice 8 :
 
 Demander à l’utilisateur de saisir son âge. S’il a plus de 18 ans, afficher *" Vous êtes majeur "*. Sinon afficher *" Vous êtes mineur "*.
+
+## Exercice 9 :
+
+Demander à l'utilisateur deux chiffres. S'il clique sur un bouton, cela fait le calcul de son choix (addition, soustraction, division, multiplication).
+
+## Exercice 10 :
+
+Demander à l'utilisateur deux chiffres. Les comparer. Afficher une alert différente si le premier nombre est plus grand, s'il est plus petit, ou si les deux sont égaux.
