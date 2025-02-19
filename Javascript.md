@@ -85,3 +85,19 @@ else {
     console.log("Pas égal"); // Affiche "Pas égal"
 }
 ```
+
+9. **.value :**
+- La propriété `.value` est utilisée pour obtenir ou définir la valeur d'un élément de formulaire HTML, comme un champ de texte (`<input>`), une zone de texte (`<textarea>`), ou une liste déroulante (`<select>`). Elle permet de récupérer ce que l'utilisateur a saisi ou sélectionné.
+
+**Exemple :**
+```javascript
+// HTML
+// <input type="text" id="username" value="Utilisateur">
+
+// JavaScript
+let input = document.getElementById("username");
+console.log(input.value); // Affiche "Utilisateur"
+
+input.value = "Nouvel utilisateur";
+console.log(input.value); // Affiche "Nouvel utilisateur"
+```
