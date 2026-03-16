@@ -23,7 +23,7 @@ Refaire **l’exercice 2** en demandant le nom, le prénom et la ville à l’ut
 
 ## Exercice 5 :
 
-Demander à l’utilisateur deux nombres à virgule. Ne garder que la partie entière du premier .  
+Demander à l’utilisateur deux nombres. 
 Les multiplier et afficher le résultat dans une boîte de dialogue.
 
 ## Exercice 6 :
