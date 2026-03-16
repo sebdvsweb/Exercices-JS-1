@@ -32,25 +32,12 @@ Dans un fichier séparé, créer une fonction permettant d’afficher le reste d
 
 ## Exercice 7 :
 
-Demander à l’utilisateur sa pointure et son année de naissance. Créer une fonction qui fait les calculs suivants :
-
-1. Multiplier la pointure par 2
-2. Ajouter 5 au résultat
-3. Multiplier le tout par 50
-4. Soustraire l’année de naissance
-5. Ajouter au tout 1766
-
-La fonction doit retourner le résultat.
-Tester avec votre date de naissance et votre pointure. **Attention : n'utiliser qu'une seule variable de résultat**.
+Demander à l’utilisateur de saisir son âge. S’il a plus de 18 ans, afficher *" Vous êtes majeur "*. Sinon afficher *" Vous êtes mineur "*.
 
 ## Exercice 8 :
 
-Demander à l’utilisateur de saisir son âge. S’il a plus de 18 ans, afficher *" Vous êtes majeur "*. Sinon afficher *" Vous êtes mineur "*.
-
-## Exercice 9 :
-
 Demander à l'utilisateur deux chiffres. S'il clique sur un bouton, cela fait le calcul de son choix (addition, soustraction, division, multiplication).
 
-## Exercice 10 :
+## Exercice 9 :
 
 Demander à l'utilisateur deux chiffres. Les comparer. Afficher une alert différente si le premier nombre est plus grand, s'il est plus petit, ou si les deux sont égaux.
